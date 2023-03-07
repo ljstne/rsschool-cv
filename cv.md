@@ -29,3 +29,9 @@ function isPrime(num) {
 
 + RS School JavaScript / Frontend. STAGE 0 (*12/22–03/23*)
 + JS / FRONT-END (*from 03/22*)
+
+### Contact me:
+
+k.qxcyz@gmail.com   
+discord: @ljjstn#5215
+https://github.com/lstne
