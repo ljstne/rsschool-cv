@@ -34,4 +34,4 @@ function isPrime(num) {
 
 k.qxcyz@gmail.com   
 discord: @ljjstn#5215
-https://github.com/lstne
+https://github.com/ljstne
